@@ -1,2 +1,0 @@
-# Analysing-Credit-Risk-on-European-Peer-to-Peer-lending-Platform  
-The data comprises demographic and financial information of borrowers and loan transactions. In P2P lending, loans are typically uncollateralized and lenders seek higher returns as compensation for the financial risk they take. In addition, they need to make decisions under information asymmetry that works in favor of the borrowers. 
